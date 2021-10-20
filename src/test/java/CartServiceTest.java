@@ -17,10 +17,6 @@ public class CartServiceTest {
 
     }
     @Test
-    public void selecting_non_existed_item_in_the_cart_should_throw_exception(){
-
-    }
-    @Test
     public void selecting_item_and_able_to_add_item_add_quantity_in_the_cart_return_total_price_of_food_item(){
 
     }
